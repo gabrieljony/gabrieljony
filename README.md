@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Gabriel Jony, a Brazilian developer who likes to create elegant, practical, useful and accessible software for the user!
+
+Excited to improve my learning with React and C#. Goal launched for 2021.
+
+I am currently working with Angular and Spring, among other internal projects and technologies!
+
+I can be found on my Linkedin 📫
+
 <!--
 **gabrieljony/gabrieljony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
